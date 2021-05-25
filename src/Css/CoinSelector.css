@@ -1,0 +1,9 @@
+.coin_selector {
+  width: 180px;
+  height: 42px;
+  margin: 9px;
+  font-size: 18px;
+  background-color: #d5e3ac;
+  color: #2d0625;
+  border: solid black 1px;
+}

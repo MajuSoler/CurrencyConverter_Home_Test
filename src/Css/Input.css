@@ -1,0 +1,18 @@
+.input_container {
+  display: flex;
+  flex-direction: row;
+  margin: 9px;
+  align-items: center;
+}
+
+.Amounth_input {
+  width: 95px;
+  height: 36px;
+  font-size: 18px;
+  text-align: center;
+  background-color: #d5e3ac;
+  color: #2d0625;
+  border: solid black 1px;
+  align-items: center;
+  justify-content: center;
+}
