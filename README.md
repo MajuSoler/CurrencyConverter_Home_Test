@@ -28,13 +28,13 @@ cd YOUR_PROJECT_NAME
 3. install dependencies
 
 ```
-npm install
+yarn install
 ```
 
-4. Start development server with npm start
+4. Start development server with yarn start
 
 ```
-npm start
+yarn start
 ```
 
 Runs the app in the development mode.\
