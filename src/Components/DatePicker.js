@@ -7,7 +7,6 @@ const DatePicker = ({ date, setDate, today }) => (
     value={date}
     max={today}
     onChange={(e) => setDate(e.target.value)}
-    style={{ margin: 32 }}
   />
 );
 
