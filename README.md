@@ -1,5 +1,7 @@
 # Currency Converter
 
+![IMAGE](https://github.com/MajuSoler/CurrencyConverter_Home_Test/blob/main/public/MainPage.png)
+
 This is a currency converter project done as a home test for a Front End position. 
 
 Users can choose a currency and a value and convert it to other coins. The date can also be changed.
@@ -14,7 +16,7 @@ In the future, other features can be added, such as a flag for the country of ea
 1. Clone the app
 
 ```
-git clone git@github.com:YOUR_GITHUB_NAME/YOUR_PROJECT_NAME.git
+git clone git@github.com:MajuSoler/CurrencyConverter_Home_Test.git
 ```
 
 2. cd into your project
@@ -47,4 +49,4 @@ You will also see any lint errors in the console.
 
 ### Deployment
 
-You can see a live version of this project in :
+You can see a live version of this project in : https://currencyconvertertest.netlify.app/
