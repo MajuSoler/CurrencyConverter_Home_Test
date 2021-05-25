@@ -4,7 +4,7 @@ import { address, key } from "../../Config/constants";
 //Exporting to the reducer.
 export const CURRENCY_LIST_FETCHED = "CURRENCY_LIST_FETCHED";
 
-//These actions send the information to the Reducer to be stored
+//This action sends the information to the Reducer to be stored
 const CurrencyListFetched = (currency_list) => ({
   type: CURRENCY_LIST_FETCHED,
   payload: currency_list,
